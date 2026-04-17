@@ -1,6 +1,6 @@
 # All Restaurants in Bellevue, Washington, US
 
-> Free BeamStation sample export with 43 rows and masked direct-contact fields.
+> Free BeamStation sample export with 42 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `589060` |
 | Location | Bellevue |
 | Category | Restaurants |
-| Full dataset size | 433 records |
-| Free sample size | 43 records (9.93%) |
-| Last export | 2026-04-07T11:24:04.300360+00:00 |
+| Full dataset size | 427 records |
+| Free sample size | 42 records (9.84%) |
+| Last export | 2026-04-14T11:21:21.535050+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-bellevue-washington-us-sample-589060/releases/download/sample-latest/beamstation_589060_restaurants-us-wa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
