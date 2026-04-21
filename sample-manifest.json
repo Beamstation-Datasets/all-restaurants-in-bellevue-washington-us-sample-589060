@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a7cd432f-d0ec-450f-aa77-2b04911ec302",
+  "export_job_id": "d9015942-e602-4675-a3f3-540940a93da1",
   "id_short": 589060,
-  "published_at": "2026-04-17T19:42:18Z",
+  "published_at": "2026-04-21T19:35:09Z",
   "repo_name": "all-restaurants-in-bellevue-washington-us-sample-589060",
   "sample_asset_name": "beamstation_589060_restaurants-us-wa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/589060/beamstation_589060_restaurants-us-wa_SAMPLE_DIST.csv",
   "sample_records": 42,
-  "sample_sha256": "89a5dcba1965213c98270b1c1619c89c4fe45f038940fc7c961ab80a8b62afcd",
-  "sample_size_bytes": 156847,
-  "total_records": 427
+  "sample_sha256": "e7687d6faa5518218a16533f19e2f430b161ef1662c25d241c6a003528ee1470",
+  "sample_size_bytes": 162537,
+  "total_records": 423
 }
