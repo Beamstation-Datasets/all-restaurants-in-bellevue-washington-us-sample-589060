@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Complete dataset of all active restaurant listings in Bellevue, Washington with a population of over 151k. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Bellevue, Washington, US",
-  "export_job_id": "a7cd432f-d0ec-450f-aa77-2b04911ec302",
+  "export_job_id": "d9015942-e602-4675-a3f3-540940a93da1",
   "github_org": "Beamstation-Datasets",
   "id_short": 589060,
   "location_name": "Bellevue",
   "location_type": "city",
   "repo_name": "all-restaurants-in-bellevue-washington-us-sample-589060",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/589060/beamstation_589060_restaurants-us-wa_SAMPLE_DIST.csv",
-  "sample_pct": 9.84,
+  "sample_pct": 9.93,
   "sample_records": 42,
-  "sample_sha256": "89a5dcba1965213c98270b1c1619c89c4fe45f038940fc7c961ab80a8b62afcd",
-  "sample_size_bytes": 156847,
-  "total_records": 427,
-  "updated_at": "2026-04-14T11:21:21.535050+00:00"
+  "sample_sha256": "e7687d6faa5518218a16533f19e2f430b161ef1662c25d241c6a003528ee1470",
+  "sample_size_bytes": 162537,
+  "total_records": 423,
+  "updated_at": "2026-04-21T11:42:51.747469+00:00"
 }
